@@ -1,0 +1,1 @@
+"""Clinical Copilot backend package."""
